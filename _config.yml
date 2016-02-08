@@ -1,7 +1,7 @@
 title:            OpenRIF
 description:      Open Reseaerch Information Framework
 disqus_shortname: openrif # put your disqus here
-reading_time:     true # if true, shows the estimated reading time for a post
+reading_time:     false # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/logo.png # logo visible in the topbar
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -64,7 +64,7 @@ background:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-73508810-1
-google_verify:
+google_verify: google0b804d2521f7f29b
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
