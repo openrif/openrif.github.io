@@ -6,4 +6,5 @@ tags: [Jekyll, theme, themes, responsive, blog, modern]
 comments: false
 ---
 
-The homepage.
+
+The about page.
