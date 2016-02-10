@@ -88,7 +88,7 @@
                 {% if sub.url contains 'http://' or sub.url contains 'https://' %}
                   <li ><a href="{{sub.url}}" target="_blank">{{sub.title}}</a></li>
                 {% else %}
-                  <li ><a href="{{base_url}}{{sub.url}}" target="_blank">{{sub.title}}</a></li>
+                  <li ><a href="{{base_url}}{{sub.url}}">{{sub.title}}</a></li>
                 {% endif %}
             {% endfor %}
           </ul>
