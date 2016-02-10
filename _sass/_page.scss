@@ -28,7 +28,7 @@ body {
 }
 
 .entry-date {
-	color: $white;
+	color: lighten($base-color,60);
 }
 ///sections
 
@@ -94,6 +94,7 @@ body {
 	@include font-rem(12);
 	text-transform: uppercase;
 	color: lighten($base-color,60);
+	line-height: 1;
 	a {
 		color: lighten($base-color,60);
 	}
@@ -647,4 +648,8 @@ ul.social-buttons li a:active {
 			display: inline;
 		}
 	}
+}
+
+.edit-link {
+	margin-left: 10px;
 }
