@@ -23,6 +23,13 @@ menu:
     url: '/blog'
   - title: 'About'
     url: '/page/about.html'
+    submenu:
+      - title: 'About'
+        url: '/page/about.html'
+      - title: 'Team'
+        url: '/page/team.html'
+      - title: 'Contact'
+        url: '/page/contact.html'
   - title: 'Documentation'
     url: 'http://guide.openrif.org'
   - title: 'GitHub'
