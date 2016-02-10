@@ -102,7 +102,7 @@ relative_permalinks: false
 
 # Amount of post to show on home page
 paginate: 5
-paginate_path: '/blog/page:num'
+paginate_path: 'blog/page:num'
 
 # if true, shows the floatting share buttons
 float_share: true

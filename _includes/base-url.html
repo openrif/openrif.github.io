@@ -1,10 +1,10 @@
----
----
 {% assign base_url = '' %}
-{% assign depth = page.url | split: '/' | size | minus: 1 %}
-{% if    depth == 1 %}{% assign base_url = '.' %}
+{% assign depth = page.url | split: '/' | size | minus:1 %}
+{% if    depth == -1 %}{% assign base_url = '.' %}
+{% elsif depth == 0 %}{% assign base_url = '.' %}
+{% elsif depth == 1 %}{% assign base_url = '..' %}
 {% elsif depth == 2 %}{% assign base_url = '..' %}
 {% elsif depth == 3 %}{% assign base_url = '../..' %}
 {% elsif depth == 4 %}{% assign base_url = '../../..' %}
-{% elsif depth == 5 %}{% assign base_url = '../../../..' %}
 {% endif %}
+<!-- page.url:{{page.url}}  depth:{{depth}} base_url:{{base_url}} -->
