@@ -94,7 +94,7 @@ gems:
   - jekyll-paginate
 sass:
   sass_dir: _sass
-  style: compressed
+  style: nested
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 #permalink:   /:categories/:title/
