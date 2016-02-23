@@ -1,3 +1,4 @@
+# See: http://stackoverflow.com/questions/928646/how-do-i-tell-git-to-always-select-my-local-version-for-conflicted-merges-on-a-s
 CNAME merge=ours
 _config.yml merge=ours
  
