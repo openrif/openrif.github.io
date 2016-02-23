@@ -1,4 +1,6 @@
 # See: http://stackoverflow.com/questions/928646/how-do-i-tell-git-to-always-select-my-local-version-for-conflicted-merges-on-a-s
+# Run this to make the below configuration work on your machine:
+# git config --global merge.ours.driver true
 CNAME merge=ours
 _config.yml merge=ours
  
