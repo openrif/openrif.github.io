@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "Welcome to OpenRIF"
-description: "Describe this nonsense."
-tags: [Jekyll, theme, themes, responsive, blog, modern]
 comments: false
 no_edit: false
 ---
