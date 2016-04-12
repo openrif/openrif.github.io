@@ -22,7 +22,7 @@ infrastructure components:
 
 OpenRIF seeks to align with other information representation efforts
 in scholarship to insure scalable/exchangeable information
-infrastructure for scholarship.  Such related efforts include ORCiD,
+infrastructure for scholarship.  Such related efforts include [ORCiD](http://orcid.org/),
 SHARE, DataCite, NIH BD2K, LD4L, EuroCRIS and others. OpenRIF relies
 on existing semantic infrastructure such as obo, bfo, foaf, skos, and
 others to contribute to a growing effort to share semantics across
