@@ -1,7 +1,7 @@
 ---
-title: The contact page title
+title: Contact OpenRIF
 layout: page
 ---
 
 
-The contact page content.
+To contact OpenRIF team and contribute to the discussion please post your message to the OpenRIF Google Groups: https://groups.google.com/forum/#!forum/openrif
