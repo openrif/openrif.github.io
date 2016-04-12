@@ -18,7 +18,7 @@ infrastructure components:
 - SciENcv, the federal researcher profile and biosketch infrastructure
 - PARDI, the NIH Portfolio Analysis and Reporting Data Infrastructure,
   for research impact and evaluation
-- Others?
+- Attribution for many types of contributions across a wide spectrum of scholarship
 
 OpenRIF seeks to align with other information representation efforts
 in scholarship to insure scalable/exchangeable information
@@ -27,3 +27,9 @@ SHARE, DataCite, NIH BD2K, LD4L, EuroCRIS and others. OpenRIF relies
 on existing semantic infrastructure such as obo, bfo, foaf, skos, and
 others to contribute to a growing effort to share semantics across
 domains.
+
+OpenRIF community on GitHub: https://github.com/openrif/community
+
+Contribute to OpenRIF discussion via Google Group: https://groups.google.com/forum/#!forum/openrif
+
+
