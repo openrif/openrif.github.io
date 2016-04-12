@@ -1,28 +1,17 @@
 ---
-title: The about page title
+title: About OpenRIF
 layout: page
 ---
 
-OpenRIF is an open source community devoted to developing and
-promoting interoperable and extensible semantic infrastructure for
-scholarship.
+OpenRIF is an open source organization that aims to provide specific and interoperable semantic constructs to support a diversity of applications including:
 
-OpenRIF community members currently work on various semantic
-infrastructure components: 
 
-- VIVO-ISF for representing people, works and the relationships of
-  people and works eagle-i for representing research resources, and
-  the relationship of those resources to people and their works
-- SciENcv, the federal researcher profile and biosketch infrastructure
-- PARDI, the NIH Portfolio Analysis and Reporting Data Infrastructure,
-  for research impact and evaluation
-- Others?
+- Standardization of research networking systems data - VIVO, Loki, Profiles, using the VIVO-Integrated Semantic Framework (VIVO-ISF)
+- Standardization of SciENcv data, the US federal biosketch system
+- Attribution for many types of contributions across a wide spectrum of scholarship
+- Relating research resources in eagle-i to people and organizations using eagle-i Resource Ontology (ERO)
+- Tracking of scientific impact realized within clinical guidelines and other policies (in systems such as NIH PARDI)
 
-OpenRIF seeks to align with other information representation efforts
-in scholarship to insure scalable/exchangeable information
-infrastructure for scholarship.  Such related efforts include ORCiD,
-SHARE, DataCite, NIH BD2K, LD4L, EuroCRIS and others. OpenRIF relies
-on existing semantic infrastructure such as obo, bfo, foaf, skos, and
-others to contribute to a growing effort to share semantics across
-domains.
+
+OpenRIF will help link and classify data in various systems and organizations about people and their relationship to different scholarly products, such as publications, grants, presentations, courses, software, material resources, clinical instruments, protocols, etc. 
       
