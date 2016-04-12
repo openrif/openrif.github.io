@@ -12,7 +12,7 @@ scholarship.
 OpenRIF community members currently work on various semantic
 infrastructure components: 
 
-- VIVO-ISF for representing people, works and the relationships of
+- [VIVO-ISF](https://wiki.duraspace.org/display/VIVO/VIVO-ISF+Ontology) for representing people, works and the relationships of
   people and works eagle-i for representing research resources, and
   the relationship of those resources to people and their works
 - [SciENcv](http://www.ncbi.nlm.nih.gov/sciencv/), the federal researcher profile and biosketch infrastructure
