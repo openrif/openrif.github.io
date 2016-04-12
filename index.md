@@ -15,7 +15,7 @@ infrastructure components:
 - VIVO-ISF for representing people, works and the relationships of
   people and works eagle-i for representing research resources, and
   the relationship of those resources to people and their works
-- SciENcv, the federal researcher profile and biosketch infrastructure
+- [SciENcv](http://www.ncbi.nlm.nih.gov/sciencv/), the federal researcher profile and biosketch infrastructure
 - PARDI, the NIH Portfolio Analysis and Reporting Data Infrastructure,
   for research impact and evaluation
 - Attribution for many types of contributions across a wide spectrum of scholarship
