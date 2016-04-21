@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OpenRIF at FORCE2016
+author: marijane
 ---
 
 The OpenRIF team is very excited to be presenting a workshop on April 17th at FORCE2016!
