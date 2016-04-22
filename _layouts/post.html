@@ -10,13 +10,13 @@
 
 <body id="post" {% if page.image.feature %}class="feature"{% endif %}>
 <!-- Look the author details up from the site config. -->
-{% assign author = site.data.authors[page.author] %}
+{% assign author = site.data.people[page.author] %}
 
 <!-- Output author details if some exist. -->
 {% if author %}
     <span>
         <!-- Personal Info. -->
-        Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+        Written by <a href="{{ author.github }}" target="_blank">{{ author.name }}</a>
     </span>
 {% endif %}
 
