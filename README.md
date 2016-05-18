@@ -1,4 +1,6 @@
 # Neo-HPSTR Jekyll Theme
+
+[![Join the chat at https://gitter.im/openrif/www.openrif.org](https://badges.gitter.im/openrif/www.openrif.org.svg)](https://gitter.im/openrif/www.openrif.org?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Based on https://github.com/mmistakes/hpstr-jekyll-theme
 
 Demo: http://aronbordin.com/neo-hpstr-jekyll-theme
