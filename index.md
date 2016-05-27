@@ -30,6 +30,8 @@ domains.
 
 [OpenRIF community on GitHub](https://github.com/openrif/community)
 
-[OpenRIF community on Google Groups](https://groups.google.com/forum/#!forum/openrif)
+[OpenRIF community on Gitter](https://gitter.im/openrif/community)
+
+[OpenRIF community on Google Groups](https://groups.google.com/forum/#!forum/openrif-community)
 
 
