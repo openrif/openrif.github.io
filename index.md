@@ -28,10 +28,10 @@ on existing semantic infrastructure such as obo, bfo, foaf, skos, and
 others to contribute to a growing effort to share semantics across
 domains.
 
-[OpenRIF community on GitHub](https://github.com/openrif/community)
+Chat with the [OpenRIF Community on Gitter](https://gitter.im/openrif/community)
 
-[OpenRIF community on Gitter](https://gitter.im/openrif/community)
+Keep tabs on OpenRIF at the [OpenRIF Community on Google Groups](https://groups.google.com/forum/#!forum/openrif-community)
 
-[OpenRIF community on Google Groups](https://groups.google.com/forum/#!forum/openrif-community)
+Report VIVO-ISF issues at the [OpenRIF Community on GitHub](https://github.com/openrif/community)
 
-
+Join OpenRIF contributors at [OpenRIF Dev on Google Groups](https://groups.google.com/forum/#!forum/openrif-community)
