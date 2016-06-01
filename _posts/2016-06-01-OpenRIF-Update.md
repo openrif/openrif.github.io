@@ -34,21 +34,21 @@ Blog](http://vivoweb.org/vivo-updates-may-8-2016-vivo-user-group-meeting).
 
 A handful of OpenRIF chat rooms were created on Gitter, most within the last two weeks.
 
-* http://gitter.im/openrif/community is intended to be a complement to the 
+* [http://gitter.im/openrif/community](http://gitter.im/openrif/community) is intended to be a complement to the 
 [openrif-community Google group](https://groups.google.com/forum/#!forum/openrif-community) 
 and our [community repository on GitHub](https://github.com/openrif/community), which is where 
 members of the community can submit requests and issues related to VIVO-ISF.  This is a good 
 place to ask questions about OpenRIF.
 
-* http://gitter.im/openrif/vivo-isf-ontology is for discussion of all things related to the 
+* [http://gitter.im/openrif/vivo-isf-ontology](http://gitter.im/openrif/vivo-isf-ontology) is for discussion of all things related to the 
 VIVO-ISF ontology.
 
-* http://gitter.im/openrif/www.openrif.org is for contributors to the OpenRIF website.
+* [http://gitter.im/openrif/www.openrif.org](http://gitter.im/openrif/www.openrif.org) is for contributors to the OpenRIF website.
 
-* http://gitter.im/openrif/sciencv-integration is for community members working on the SciENcv 
+* [http://gitter.im/openrif/sciencv-integration](http://gitter.im/openrif/sciencv-integration) is for community members working on the SciENcv 
 integration project.
 
-* http://gitter.im/openrif is a private chat room for members of the [OpenRIF organization 
+* [http://gitter.im/openrif](http://gitter.im/openrif) is a private chat room for members of the [OpenRIF organization 
 on GitHub](https://github.com/openrif). (Email [mailto:whimar@ohsu.edu](Marijane White) if you 
 would like an invite to join our GitHub organization.)
 
