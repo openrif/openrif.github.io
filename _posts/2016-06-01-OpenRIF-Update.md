@@ -3,6 +3,7 @@ layout: post
 title: OpenRIF Update, 2016.06.01
 description: "Update about OpenRIF activities in the first half of 2016."
 tags: [update]
+author: marijane
 ---
 
 It's June!  A lot has been happening in the OpenRIF community since I joined in February.  An 
