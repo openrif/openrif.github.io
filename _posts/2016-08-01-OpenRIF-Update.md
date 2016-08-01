@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenRIF Update, 2016.06.01
+title: OpenRIF Update, 2016.08.01
 description: "Update about OpenRIF activities in June and July of 2016."
 tags: [update]
 ---
