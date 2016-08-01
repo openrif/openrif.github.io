@@ -3,7 +3,7 @@ title: About OpenRIF
 layout: page
 ---
 
-OpenRIF is an open source organization that aims to provide specific and interoperable semantic constructs to support a diversity of applications including:
+OpenRIF, the Open Research Information Framework, is an open source organization that aims to provide specific and interoperable semantic constructs to support a diversity of applications including:
 
 
 - Standardization of research networking systems data - VIVO, Loki, Profiles, using the VIVO-Integrated Semantic Framework (VIVO-ISF)

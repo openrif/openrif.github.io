@@ -5,7 +5,7 @@ comments: false
 no_edit: false
 ---
 
-OpenRIF is an open source community devoted to developing and
+OpenRIF, the Open Research Information Framework, is an open source community devoted to developing and
 promoting interoperable and extensible semantic infrastructure for
 scholarship.
 
